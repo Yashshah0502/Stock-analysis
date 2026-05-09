@@ -1,0 +1,10 @@
+python-dotenv
+requests
+pandas
+pydantic
+pydantic-settings
+yfinance
+edgartools
+openbb
+rich
+pytest
